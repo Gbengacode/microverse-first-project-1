@@ -32,8 +32,9 @@ To get a local copy up and running follow these simple example steps.
 ## Author
 👤 **Author**
 
-- GitHub: [https://github.com/gbengacode)
-- linkedin [https://www.linkedin.com/in/emmanuel-gbenga/]
+[Github](https://github.com/gbengacode)
+[Twitter](https://www.linkedin.com/in/emmanuel-gbenga/)
+
 
 ## 🤝 Contributing
 
