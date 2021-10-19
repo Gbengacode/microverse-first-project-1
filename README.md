@@ -1,13 +1,6 @@
-# microverse-first-project-1
 
-
-# Setup project for Hello Microverse Project 
-
-
-
-Additional description about the project and its features.
-
-This is a setup project for Hello Microverse
+# Project Name
+ Setup project for Hello Microverse
 
 ## Built With
 
@@ -24,7 +17,9 @@ To get a local copy up and running follow these simple example steps.
 
 -Have git install on your local machine
 
--Clone repository 
+### Setup
+
+-Clone the repository 
 
 -Run on your machine
 
