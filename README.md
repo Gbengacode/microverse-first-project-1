@@ -1,71 +1,47 @@
 # microverse-first-project-1
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Setup project for Hello Microverse Project 
 
-> One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
+This is a setup project for Hello Microverse
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+-html
+-css
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+have git install on your local machine
 
-### Install
+clone repository 
 
-### Usage
-
-### Run tests
-
-### Deployment
+run on your machine
 
 
+## Author
+👤 **Author**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/gbengacode)
-
+- GitHub: [https://github.com/gbengacode)
+- linkedin [https://www.linkedin.com/in/emmanuel-gbenga/]
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+My fellow coding partners
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
