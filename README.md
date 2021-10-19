@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author**
 
 [Github](https://github.com/gbengacode)
-[Twitter](https://www.linkedin.com/in/emmanuel-gbenga/)
+[Linkedin](https://www.linkedin.com/in/emmanuel-gbenga/)
 
 
 ## 🤝 Contributing
