@@ -11,8 +11,8 @@ This is a setup project for Hello Microverse
 
 ## Built With
 
--html
--css
+-HTML
+-CSS
 
 
 ## Getting Started
@@ -22,11 +22,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-have git install on your local machine
+-Have git install on your local machine
 
-clone repository 
+-Clone repository 
 
-run on your machine
+-Run on your machine
 
 
 ## Author
